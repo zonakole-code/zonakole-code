@@ -1,0 +1,8 @@
+# Opšti vlasnici (opciono)
+*                   @tim-ili-korisnik
+
+# Zaštita samog CODEOWNERS fajla
+/.github/CODEOWNERS @sasa-username
+
+# Zaštita README-a u root-u
+/README.md          @sasa-username
