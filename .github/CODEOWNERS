@@ -2,7 +2,7 @@
 *                   @tim-ili-korisnik
 
 # Zaštita samog CODEOWNERS fajla
-/.github/CODEOWNERS @zonakole-code
+/.github/CODEOWNERS @zonakole-codea
 
 # Zaštita README-a u root-u
-/README.md          @zonakole-code
+/README.md          @zonakole-codea
